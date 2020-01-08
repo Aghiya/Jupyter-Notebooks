@@ -1,9 +1,11 @@
-# DataNinjas Machine Learning Projects
-This repository contains 5 different machine learning models attempting classify two different datasets.
+# Machine Learning Project
+This repository contains 5 different machine learning models attempting classify two different datasets done with two different machine learning libraries: Spark MLlib and Sci-kit Learn. 
 
-The models are: Logistic Regression, Support Vector Machine, Neural Network, Decision Tree, and Random Forest.
+The Spark MLlib models are: Logistic Regression, Linear Support Vector Machine, Gradient-boosted Tree, Decision Tree, and Random Forest.
 
-# Dataset Information
+The Sci-kit Learn models are: Logistic Regression, Support Vector Machine, Neural Network, Decision Tree, and Random Forest.
+
+# Datasets Information
 
 ## Churn dataset
 This dataset provides information on customers who left the company's service along with various features like number of dependents, total charges,
