@@ -7,7 +7,7 @@ This repository contains different machine learning models attempting classify t
 Logistic Regression, Naive Bayes, Gradient-boosted Tree, Decision Tree, and Random Forest.
 
 ## Sci-kit Learn models
-The Sci-kit Learn models are: Logistic Regression, AdaBoost, Stochastic Gradient Descent, Linear Support Vector Machine, and Multilayer Perceptron.
+Logistic Regression, AdaBoost, Stochastic Gradient Descent, Linear Support Vector Machine, and Multilayer Perceptron.
 
 # Datasets Information
 
